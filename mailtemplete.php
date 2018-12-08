@@ -1,6 +1,12 @@
 <?php
 
-
+/*
+*|======================================================================|
+*|	@Author : Chandan Sharma 											                      |
+*|	@Email: <devchandansh@gmail.com>									                  |
+*|	@Website: <www.chandansharma.co.in>									                |
+*|======================================================================|
+*/	
 
 /*
   DB Table Stucture:
